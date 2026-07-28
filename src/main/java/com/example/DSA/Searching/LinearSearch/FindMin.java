@@ -1,4 +1,4 @@
-package com.example.DSA.Searching;
+package com.example.DSA.Searching.LinearSearch;
 
 public class FindMin {
     public static void main(String[] args) {
